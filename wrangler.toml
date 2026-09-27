@@ -28,5 +28,5 @@ bucket_name = "cfmemos"
 # binding = "CACHE"
 # id = "3b729feb97144c19b86bcde13be655e7"
 
-[ai]
-binding = "AI"
+# [ai]
+# binding = "AI"
